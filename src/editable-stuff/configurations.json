@@ -1,0 +1,48 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#E73C7E, #23A6D5, #23D5AB, #893FA6",
+  "FirstName": "Ruturaj",
+  "MiddleName": "",
+  "LastName": "Patil",
+  "devDesc": "Passionate Polyglot Programmer | Aspiring Architect",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/ruturajpatil54",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/deshpanderuturaj",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/deshpanderuturaj/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/ruturajpatil54",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": false,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "ana_ashhh",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Hello! My name is Ruturaj and I am a Senior Software Engineer currently working at GE Aviation since March 2018",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "anaashrafi",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 2,
+  "showNavigationbar": true,
+  "showBlog": false
+}

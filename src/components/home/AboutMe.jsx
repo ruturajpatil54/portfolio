@@ -1,7 +1,7 @@
 import React, { useState, useEffect, Profiler } from "react";
 import axios from "axios";
 import Pdf from "../../editable-stuff/Ruturaj Patil - Resume.pdf";
-import Profile from "../../editable-stuff/Profile.jpg"
+import Profile from "../../editable-stuff/Profile.jpeg"
 import {Helmet} from "react-helmet";
 
 import {
