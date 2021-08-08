@@ -9,7 +9,7 @@
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://ruturajpatil54.github.io)
+[![Site preview](/public/social-image.png)](https://ruturajpatil54.github.io/portfolio/)
 
 ## Technology Stack 
 
