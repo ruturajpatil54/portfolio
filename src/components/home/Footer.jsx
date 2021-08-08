@@ -28,10 +28,9 @@ import {
     <div className="container container-fluid">
           <div className="d-inline align-self-center">
           <h2 className="display-4 pb-3 text-center">Get In Touch</h2>
-          <p className="lead text-center" style={{fontSize:'22px'}}>I'm currently looking for full-time Software Engineering opportunities! If you know of 
-            any positions available, have any questions, or just want to say hi, please feel free to email me at  
-            <a href="mailto:ana.a.ashrafi@gmail.com">{" "}
-               ana.a.ashrafi@gmail.com
+          <p className="lead text-center" style={{fontSize:'22px'}}>Got any questions, or just want to say hi, please feel free to email me at  
+            <a href="mailto:ruturajdeshpande@hotmail.com">{" "}
+               ruturajdeshpande@hotmail.com
             </a>{"."}
           </p>
           
@@ -57,10 +56,10 @@ import {
       <a
         className="badge badge-dark"
         rel="noopener"
-        href="https://github.com/anaashrafi"
+        href="https://github.com/ruturajpatil54"
         aria-label="My GitHub"
       >
-        Ana Ashrafi
+        Ruturaj Patil
       </a>{" "}
       using <i className="fab fa-react"></i>
     </footer>
