@@ -1,15 +1,15 @@
 <p align="center">
-  <h1 align="center">Ana Ashrafi's Personal Website ✨</h1>
+  <h1 align="center">Ruturaj Patil - Portfolio ✨</h1>
   <p align="center">
-    The personal website/portfolio of Ana Ashrafi, hosted with GitHub Pages. Built using React and Bootstrap. Site URL / Demo: 
-    <a href="https://anaashrafi.com">anaashrafi.com</a>
+    Personal portfolio page
+    <a href="https://ruturajpatil54.github.io/">ruturajpatil54.github.io</a>
     <br />
   </p>
 </p>
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://anaashrafi.github.io/)
+[![Site preview](/public/social-image.png)](https://ruturajpatil54.github.io)
 
 ## Technology Stack 
 
@@ -23,7 +23,7 @@ Dependencies defined in package.json:
 
 ## Sharing 
 
-Project is open source, and was based on work by @hashirshoaeb that can be found [here](https://github.com/hashirshoaeb/home).
+Project is open source, and was based on work by @hashirshoaeb that can be found [here](https://github.com/hashirshoaeb/home) and it's fork here [here](https://github.com/anaashrafi/home/)
 
 ## Prerequisites 
 

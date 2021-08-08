@@ -35,8 +35,8 @@ return (
                 <div className="col text-center">
                     <img
                         // className="border border-secondary rounded-circle"
-                        src={Boeing}
-                        alt="boeing logo"
+                        src={ge-logo}
+                        alt="GE logo"
                         width="300"
                         height="80"
                     />
@@ -47,7 +47,6 @@ return (
                         <br/>
                         May - August 2019
                     </p>
-                    {/* <h3>Boeing</h3> */}
                 </div>
             </div>
         </div>
